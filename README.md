@@ -35,7 +35,8 @@ O projeto possui os seguintes arquivos:
 
 ## Créditos
 
-A base desse projeto pode ser encontrada aqui 
+A base desse projeto pode ser encontrada aqui
+
 [Repositório inicial do projeto](https://github.com/Oracle-Next-Education/challenge-amigo-secreto_pt)
 
 ## Contribuições
