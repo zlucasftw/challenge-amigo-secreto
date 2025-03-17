@@ -1,0 +1,65 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                             Preamble
+
+The GNU Affero General Public License is a free software license that
+ensures that end users have the freedom to run, study, share, and modify
+the software. It is a strong copyleft license that requires any modified
+versions of the software to also be free software and to be distributed
+under the same license.
+
+                             TERMS AND CONDITIONS
+
+0. Definitions.
+
+   This License refers to version 3 of the GNU Affero General Public License.
+   "The Program" refers to any copyrightable work licensed under this License.
+   "You" refers to the licensee of the Program. "The Network" refers to a
+   network of computers that communicate with each other.
+
+1. Source Code.
+
+   The source code for a work means the preferred form of the work for making
+   modifications to it. "Object code" means any non-source form of a work.
+
+2. Basic Permissions.
+
+   You are free to use, modify, and distribute copies of the Program, under
+   the terms of this License.
+
+3. Copyleft.
+
+   You must distribute modified versions of the Program under the same license
+   as the original.
+
+4. Conveying Modified Source Versions.
+
+   You may convey a modified version of the Program under the terms of this
+   License, provided that you include a prominent notice stating that you have
+   changed the Program and the date of any changes.
+
+5. Conveying Non-Source Forms.
+
+   You may convey non-source forms of the Program, provided that you include
+   a copy of this License with it.
+
+6. Remote Network Interaction.
+
+   If you convey the Program over a network, you must provide access to the
+   source code of the Program.
+
+7. No Warranty.
+
+   The Program is provided "as is", without warranty of any kind.
+
+8. Acceptance.
+
+   By using, modifying, or distributing the Program, you accept the terms of
+   this License.
+
+For more details, see <http://www.gnu.org/licenses/agpl-3.0.html>.

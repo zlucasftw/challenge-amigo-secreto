@@ -4,20 +4,25 @@ Este projeto é uma aplicação simples para realizar o sorteio de amigos secret
 
 ## Tecnologias Utilizadas
 
-- HTML ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- CSS ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- JavaScript ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Git ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="64" alt="Badge HTML">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="64" alt="Badge CSS">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="64" alt="Badge JavaScript">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="64" alt="Badge Git">
+</div>
 
 ## Estrutura do Projeto
 
 O projeto possui os seguintes arquivos:
 
-- **index.html**: Este arquivo é a estrutura principal da aplicação, contendo a marcação HTML necessária para exibir a interface do usuário.
-- **app.js**: Este arquivo contém a lógica principal da aplicação, incluindo as funções para adicionar amigos e sortear um amigo secreto.
-- **styles.css**: Este arquivo é responsável pela estilização da aplicação, definindo o layout e a aparência dos elementos HTML.
-- **assets/images**: Este diretório contém as imagens utilizadas na aplicação.
-- **README.md**: Este arquivo contém a documentação do projeto, incluindo informações sobre como configurar e executar a aplicação.
+```
+challenge-amigo-secreto_pt/
+├── index.html          # Estrutura principal da aplicação
+├── app.js              # Lógica principal da aplicação
+├── style.css           # Estilização da aplicação
+├── README.md           # Documentação do projeto
+└── assets/             # Imagens utilizadas na aplicação
+```
 
 ## Como Executar a Aplicação
 
